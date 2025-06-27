@@ -1,9 +1,11 @@
 Oke jadi ini langkah awal ku tepatnya tangga 27 bulan 6
 Ini adalah awal yang baik mengenal Git dan Git Hub untuk tujuan AI dan ML
 
-- Disini aku mengenal yang namanya repo atau repository dan commit
     - So, repository is a folder in github. Different with folder in general.
     - and commit is a save file. Lebih gampang nya commit itu ketika kita melakukan banyak perubahan tetapi ketika kita ingin melihat/kembali ke perubahan sebelumnya
       itu bisa saja dan itu disebut history. Nah ini semua kerat hubungan nya dengan VCS atau Version Control System. 
       Version Control System is a tool that tracks and manages changes to files, particularly in software development, over time.
 Jadi semua ini ibaratkan ketika kita ingin mengubah file berkali kali tanpa ada file baru. Jadi file nya tetap 1 itu nah itu disebut dengan repo
+
+Aku juga mengenal yang namanya Hash, jadi hash itu adalah code berbasis string untuk mengenal commit.
+dan mungkin kedepannya aku akan belajar mengenai branch dan merge
